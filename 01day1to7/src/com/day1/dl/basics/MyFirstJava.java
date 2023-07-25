@@ -4,6 +4,7 @@ public class MyFirstJava {
 
 	void main() {
 		System.out.println("Test main..!!");
+		System.out.println("HELLO WORLD");
 	}
 
 	/*
